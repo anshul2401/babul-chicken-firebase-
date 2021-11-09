@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "19616927926",
+    "project_id": "babul-chicken-firebase",
+    "storage_bucket": "babul-chicken-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19616927926:android:a86bb3d44aa065a7775617",
+        "android_client_info": {
+          "package_name": "com.babul_chicken_firebase.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19616927926-1gjbcgm1al7u1tg52skv5lg5jils46lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.babul_chicken_firebase.store",
+            "certificate_hash": "7ecdbe6cacc4f6947e223e935146fc0e157b6ac6"
+          }
+        },
+        {
+          "client_id": "19616927926-27dmib5d2b2go6b1qrhb2a1hdvn7upl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlCmCjkwjlyPk4j_GrSU_7ZoBSacrPMIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19616927926-27dmib5d2b2go6b1qrhb2a1hdvn7upl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
